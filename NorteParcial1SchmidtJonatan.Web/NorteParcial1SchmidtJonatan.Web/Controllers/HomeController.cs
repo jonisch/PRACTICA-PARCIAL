@@ -13,5 +13,13 @@ namespace NorteParcial1SchmidtJonatan.Web.Controllers
         {
             return View();
         }
+        public ActionResult Contacto()
+        {
+            return View();
+        }
+        public ActionResult Acercade()
+        {
+            return View();
+        }
     }
 }
